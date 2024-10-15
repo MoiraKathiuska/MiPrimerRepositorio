@@ -1,2 +1,2 @@
-# MiPrimerRepositorio
- Mi primer repositorio
+# Mi Primer Repositorio en GitHub
+ Mi primer repositorio utilizando GitHub escritorio.
